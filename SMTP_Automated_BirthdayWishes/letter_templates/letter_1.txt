@@ -1,0 +1,12 @@
+Dear Future Alvin,
+
+Hello from your past self! Today, I’m fully engaged in my Python bootcamp, tackling SMTP and using it to remind you that today is [NAME] birthday. After moving from the UK to Malaysia, I've been focusing on self-improvement and seeking new professional opportunities here in Southeast Asia.
+
+To ensure you continue receiving these reminders, I’ve set up the code to run in the cloud using PythonAnywhere. This way, you'll always be notified of important dates.
+
+Take a moment to reflect on how far you’ve come. Have you learned anything new recently that has surprised you? Remember to give thanks to God for every step of the journey, whether it’s an open door or a closed one. His plan is always good.
+
+Be patient with yourself and celebrate every victory, no matter how small. I hope you’re finding joy and fulfilment in your pursuits. Keep pushing forward—you’re doing great!
+
+Warm regards,
+Past Alvin
